@@ -1,7 +1,6 @@
 package com.justted.chapter5;
 
-public class SimpleDotCom
-  {
+public class SimpleDotCom {
    int[] locationCells;
    int numofHits=0;
 
