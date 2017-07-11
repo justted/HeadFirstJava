@@ -48,7 +48,7 @@ public class VerySimpleChatServer {
     }
 
      public void go() {
-      clientOutputStreams = new ArrayList<PrintWriter>();
+      clientOutputStreams = new ArrayList<>();
 
        try {
        ServerSocket serverSock = new ServerSocket(5000);
